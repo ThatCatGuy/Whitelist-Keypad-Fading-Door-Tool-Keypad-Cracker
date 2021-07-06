@@ -11,3 +11,7 @@ You can cracktime on the keypad cracker by setting **keypad_crack_time xx** in y
 
 ## How to use
 Open the Q Menu and go to the Fading Door or Keypad tools.
+
+## How to spawn/equip
+Spawn from menu: Open **Q Menu** go to **Weapons -> CatGuy Sweps -> Deployable Cracker**
+Add To Job in DarkRP: Go to the **jobs.lua** and add this **keypadcracker_weapon** into the weapons list.
